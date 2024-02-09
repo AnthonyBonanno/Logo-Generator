@@ -17,11 +17,6 @@ const prompts = [{
     name: 'textColour'
 },
 {
-    type: 'input',
-    message: 'Please :',
-    name: 'text-font'
-},
-{
     type: 'list',
     message: 'Please choose a shape for you logo from the list below:',
     name: 'shape'

@@ -1,0 +1,5 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
+  <circle r="45" cx="50" cy="50" fill="red" />
+    <text x="0" y="15" fill="red">I love SVG!</text>
+  <text x="0" y="35" style="fill:green;font-weight:bold;stroke:red;stroke-width:1">I love W3Schools.com!</text>
+</svg>
