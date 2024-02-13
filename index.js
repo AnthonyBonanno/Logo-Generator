@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 const generateLogo = require('./lib/generateLogo');
-const fileName = 'output/logo.svg';
+const fileName = 'examples/logo.svg';
 
 // This is an array of prompts, each prompt stores a type, message, and name
 const prompts = [{
