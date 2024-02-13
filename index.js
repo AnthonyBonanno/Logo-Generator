@@ -20,7 +20,7 @@ const prompts = [{
 },
 {
     type: 'list',
-    message: 'Please enter a hexadecimal number for the colour of your text:',
+    message: 'Please choose a colour for your text:',
     name: 'textColour',
     choices: ['Red', 'Green', 'Blue']
 },
@@ -32,7 +32,7 @@ const prompts = [{
 },
 {
     type: 'list',
-    message: 'Please enter a hexadecimal number for the colour of your shape:',
+    message: 'Please choose a colour for your shape:',
     name: 'shapeColour',
     choices: ['Purple', 'Yellow', 'Orange']
 }];
